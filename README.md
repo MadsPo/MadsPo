@@ -1,4 +1,4 @@
-Hello demons, it's ya boy, Troels.
+Hello demons.
 
 <!---
 MadsPo/MadsPo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
